@@ -15,6 +15,6 @@ This Terraform script sets up S3 bucket replication between two AWS buckets. The
 ⚡ AWS Riddle
 I'm an AWS service that helps you scale your applications effortlessly. With me, you can handle sudden spikes in traffic like a pro, ensuring your users have a smooth experience. I'm not a magician, but I can make your infrastructure dance to the rhythm of demand. Who am I?
 
-✨ My Wishes: I aim to not only improve my technical skills but also to create innovative solutions that positively impact the healthcare field. I'm passionate about contributing to people's well-being through technology.
+✨ My Wishes: I'm passionate about contributing to people's well-being through technology.
 
 Hope you enjoy exploring my repositories!
