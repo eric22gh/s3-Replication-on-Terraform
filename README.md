@@ -1,9 +1,9 @@
-Hi there! 👋
-
 AWS S3 Bucket Replication with Terraform
 
+Hi there! 👋
+
 About Me
-Hi there! I'm Eric, a professional from the Costa Rican Social Security Fund (C.C.S.S). Currently, I'm immersed in the fascinating world of AWS, Linux, Terraform, and SQL, learning and growing in these technologies.
+I'm Eric, a professional from the Costa Rican Social Security Fund (C.C.S.S). Currently, I'm immersed in the fascinating world of AWS, Linux, Terraform, and SQL, learning and growing in these technologies.
 
 Description
 This Terraform script sets up S3 bucket replication between two AWS buckets. The replication configuration ensures that objects uploaded to the source bucket are automatically copied to the destination bucket, providing data redundancy and disaster recovery capabilities.
